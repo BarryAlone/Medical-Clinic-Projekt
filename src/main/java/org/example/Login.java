@@ -3,8 +3,8 @@ package org.example;
 import java.util.Scanner;
 
 public class Login {
-    private final String username = "halyna";
-    private final String password = "kochamogurki";
+    private final String username = "recepcjonistka";
+    private final String password = "1234";
 
 
     public boolean logIn() {

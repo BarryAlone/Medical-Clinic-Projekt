@@ -2,6 +2,6 @@ DANE DO LOGOWANIA:
 
 
 
-             Nazwa użytkownika: halyna
+             Nazwa użytkownika: recepcjonistka
 
-             Hasło: kochamogurki
+             Hasło: 1234
